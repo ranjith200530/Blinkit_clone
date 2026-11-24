@@ -1,0 +1,203 @@
+
+
+
+/* Header section */
+
+header {
+    gap: 10px;
+    padding: 10px;
+}
+
+.logo {
+    padding: 10px;
+}
+
+.logo img {
+    width: 80px;
+}
+
+.location {
+    padding: 10px;
+}
+
+.title h4 {
+    font-size: 13px;
+}
+
+.title p {
+    font-size: 11px;
+}
+
+/* Search section */
+
+.search {
+    min-width: 100px;
+}
+
+.search input {
+    width: 100%;
+}
+
+.search button {
+    padding: 8px;
+}
+
+/* Header right */
+
+.right {
+    gap: 5px;
+    margin-right: 0px;
+}
+
+.right button {
+    padding: 10px;
+    font-size: 12px;
+}
+
+/* Banner section */
+
+.banner {
+    padding: 10px;
+}
+
+.banner img {
+    width: 100%;
+}
+
+/* Order banners */
+
+.orderbanners {
+    padding: 0px 10px;
+    justify-content: space-between;
+}
+
+.banners {
+    flex-basis: 32%;
+    margin: 0px;
+}
+
+/* Category section */
+
+.category {
+    padding: 10px;
+}
+
+.catogeryitems {
+    flex-basis: 20%;
+}
+
+/* Product section */
+
+.productsection {
+    padding: 25px 15px;
+}
+
+.productRow {
+    gap: 2%;
+}
+
+.productitem {
+    flex-basis: 32%;
+    margin-bottom: 15px;
+}
+
+.productimg {
+    padding: 10px;
+}
+
+.productimg img {
+    max-width: 100%;
+}
+
+.productcontent {
+    padding: 10px;
+    padding-top: 0px;
+}
+
+.productcontent h3 {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.productcontent p {
+    font-size: 12px;
+}
+
+.btnpriceouter {
+    padding: 8px;
+}
+
+.btnpriceouter button {
+    padding: 5px 10px;
+}
+
+/* Footer section */
+
+footer {
+    padding: 30px 15px;
+}
+
+.footer-mid {
+    width: 100%;
+}
+
+.footer-mid-row1-left {
+    flex-basis: 35%;
+}
+
+.footer-mid-row1-right {
+    flex-basis: 65%;
+}
+
+.links ul {
+    flex-basis: 50%;
+}
+
+.links ul li a {
+    font-size: 12px;
+}
+
+.footer-right-heading {
+    gap: 10px;
+    margin-left: 10px;
+}
+
+.footer-links {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.footer-column li {
+    font-size: 12px;
+}
+
+.footer-mid-row2 {
+    padding: 20px 10px;
+    justify-content: space-around;
+}
+
+.footer-mid-row2 p {
+    flex-basis: 35%;
+    font-size: 12px;
+}
+
+.row2-mid {
+    flex-basis: 35%;
+    gap: 10px;
+}
+
+.socialmedia {
+    gap: 10px;
+}
+
+.socialmedia i {
+    width: 35px;
+    height: 35px;
+}
+
+.footer-mid-row3 {
+    font-size: 12px;
+    padding: 20px 10px;
+}
+
+
