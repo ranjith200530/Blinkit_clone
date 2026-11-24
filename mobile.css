@@ -1,0 +1,92 @@
+header{
+    flex-direction: column;
+    align-items: stretch;
+    padding: 10px;
+}
+
+
+.title h4{
+    font-size: 15px;
+}
+
+.title p{
+    font-size: 10px;
+}
+
+
+
+.right{
+    
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    bottom: 0px;
+    margin-right: 0px;
+    justify-content: center;
+   
+}
+
+.banner{
+display: none;
+}
+
+.orderbanners{
+    display: none;
+}
+
+.category{
+    padding: 20px;
+}
+
+.catogeryitems{
+    flex-basis: 25%;
+}
+
+
+.productsection{
+    padding: 30px 20px;
+}
+
+
+.productitem{
+    flex-basis: 48%;
+    margin-top: 10px;
+   
+}
+footer{
+    padding-top: 10px;
+}
+.footer-mid-row1{
+    padding: 10px;
+    flex-direction: column;
+}
+
+.footer-mid-row1-left{
+    padding: 10px;
+}
+.footer-right-heading{
+    margin-left: 0px;
+    padding: 7px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.footer-links {
+   
+    grid-template-columns: repeat(2, 1fr);
+     gap: 15px 25px;   
+}
+
+.footer-column {
+        display: contents;
+}
+
+.footer-mid-row3{
+
+    padding: 20px 10px;
+    padding-bottom: 40px;
+}
+.footer-mid-row2{
+    flex-direction: column;
+    gap: 20px;
+}
